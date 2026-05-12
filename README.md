@@ -5,7 +5,7 @@ An OpenOffice/LibreOffice Writer extension providing a macro that swaps two char
 
 ## Download link
 
-[swapper.oxt](https://github.com/peter88213/swapper/raw/main/swapper-0.1.0.oxt)
+[swapper-0.1.0.oxt](https://github.com/peter88213/swapper/raw/main/swapper-0.1.0.oxt)
 
 
 ## Set up
