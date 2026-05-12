@@ -5,7 +5,7 @@ An OpenOffice/LibreOffice Writer extension providing a macro that swaps two char
 
 ## Download link
 
-[swapper.oxt](https://github.com/peter88213/swapper/raw/main/swapper.oxt)
+[swapper.oxt](https://github.com/peter88213/swapper/raw/main/swapper-0.1.0.oxt)
 
 
 ## Set up
@@ -16,7 +16,7 @@ An OpenOffice/LibreOffice Writer extension providing a macro that swaps two char
 - In *Writer*, go to **Tools > Customize** and assign a 
   keyboard shortcut to the "swap_characters" subroutine.
   
-![LibreOffice 7.6 screenshot](img/assign_key_shortcut.png) 
+![LibreOffice 7.6 screenshot](docs/img/assign_key_shortcut.png) 
 
   > [!TIP]
   > Optionally create a menu entry or a toolbar button 

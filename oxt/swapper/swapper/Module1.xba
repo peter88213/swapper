@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script:module PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "module.dtd">
+<script:module xmlns:script="http://openoffice.org/2000/script" script:name="Module1" script:language="StarBasic">REM  *****  BASIC  *****
+
+Sub swap_characters
+&apos; Swap the characters to the left and right of the cursor.
+
+dim document as object
+dim oTextCursor as object
+dim oViewCursor as object
+dim buffer as string
+
+document   = ThisComponent.CurrentController.Frame
+oViewCursor = ThisComponent.CurrentController().getViewCursor()
+oTextCursor = ThisComponent.Text.createTextCursorByRange(oViewCursor)
+
+oTextCursor.goLeft(1, True)
+buffer = oTextCursor.string
+oTextCursor.string = &quot;&quot;
+oTextCursor.goRight(1, False)
+oTextCursor.string = buffer
+oTextCursor.goRight(1, False)
+oViewCursor.gotoRange(oTextCursor,False)
+
+End Sub
+</script:module>
