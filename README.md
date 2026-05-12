@@ -28,6 +28,28 @@ An OpenOffice/LibreOffice Writer extension providing a macro that swaps two char
 2. Call up the macro, e.g. via the keyboard shortcut you assigned.
 3. The two characters are swapped, and the cursor is moved one position to the right. 
 
+
+## Get updates
+
+This extension supports the update mechanism of OpenOffice and LibreOffice. 
+You can let the Extension Manager check for updates from time to time to get the latest release.
+
+## See also
+
+- [StyleSwitcher](https://peter88213.github.io/StyleSwitcher/):
+  Quickly switch between the style sheets of different document templates. 
+- [curly](https://peter88213.github.io/curly/):
+  Conversion of "curly quotes", 
+  typographical apostrophes, ellipses and so on
+  in several languages.
+- [emph](https://peter88213.github.io/emph/):
+  Use character styles instead of direct formatting to mark up text.
+
+
+## Credits
+
+[OpenOffice Extension Compiler](https://wiki.openoffice.org/wiki/Extensions_Packager#Extension_Compiler) by Bernard Marcelly.
+
 ## License
 
 This extension is distributed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
