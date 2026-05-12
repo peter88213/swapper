@@ -10,8 +10,8 @@ An OpenOffice/LibreOffice Writer extension providing a macro that swaps two char
 
 ## Set up
 
-- Install the extension *swapper.oxt* either via double-clicking
-  on the file in the Windows Explorer, or using the
+- Install the extension either via double-clicking
+  on the downloaded file in the Windows Explorer, or using the
   OpenOffice/LibreOffice Extension Manager. 
 - In *Writer*, go to **Tools > Customize** and assign a 
   keyboard shortcut to the "swap_characters" subroutine.
