@@ -5,6 +5,10 @@ An OpenOffice/LibreOffice Writer extension providing a macro that swaps two char
 
 ![Example](docs/img/swapping.png) 
 
+This extension installs a macro without any controls. 
+You will need to integrate it into the user interface yourself, 
+and you have complete freedom of choice in doing so. 
+
 
 ## Download link
 
