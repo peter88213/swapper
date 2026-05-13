@@ -1,4 +1,4 @@
-# swapper
+# ![Logo](docs/img/swap32.png) swapper
 
 An OpenOffice/LibreOffice Writer extension providing a macro that swaps two characters.
 
@@ -55,7 +55,10 @@ You can let the Extension Manager check for updates from time to time to get the
 
 ## Credits
 
-[OpenOffice Extension Compiler](https://wiki.openoffice.org/wiki/Extensions_Packager#Extension_Compiler) by Bernard Marcelly.
+- [OpenOffice Extension Compiler](https://wiki.openoffice.org/wiki/Extensions_Packager#Extension_Compiler) by Bernard Marcelly.
+- The logo is based on the [Eva Icons](https://akveo.github.io/eva-icons/#/), 
+  published under the [MIT License](http://www.opensource.org/licenses/mit-license.php). 
+  The original black and white icon was colored for this application by the maintainer.
 
 ## License
 
