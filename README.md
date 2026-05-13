@@ -12,7 +12,7 @@ and you have complete freedom of choice in doing so.
 
 ## Download link
 
-[swapper-0.1.0.oxt](https://github.com/peter88213/swapper/raw/main/swapper-0.1.0.oxt)
+[swapper-0.2.0.oxt](https://github.com/peter88213/swapper/raw/main/swapper-0.2.0.oxt)
 
 
 ## Set up
@@ -35,11 +35,6 @@ and you have complete freedom of choice in doing so.
 2. Call up the macro, e.g. via the keyboard shortcut you assigned.
 3. The two characters are swapped, and the cursor is moved one position to the right. 
 
-
-## Get updates
-
-This extension supports the update mechanism of OpenOffice and LibreOffice. 
-You can let the Extension Manager check for updates from time to time to get the latest release.
 
 ## See also
 
