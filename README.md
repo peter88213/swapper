@@ -3,6 +3,9 @@
 An OpenOffice/LibreOffice Writer extension providing a macro that swaps two characters.
 
 
+![Example](docs/img/swapping.png) 
+
+
 ## Download link
 
 [swapper-0.1.0.oxt](https://github.com/peter88213/swapper/raw/main/swapper-0.1.0.oxt)
