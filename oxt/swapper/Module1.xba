@@ -5,12 +5,10 @@
 Sub swap_characters
 &apos; Swap the characters to the left and right of the cursor.
 
-dim document as object
 dim oTextCursor as object
 dim oViewCursor as object
 dim buffer as string
 
-document   = ThisComponent.CurrentController.Frame
 oViewCursor = ThisComponent.CurrentController().getViewCursor()
 oTextCursor = ThisComponent.Text.createTextCursorByRange(oViewCursor)
 

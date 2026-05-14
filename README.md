@@ -12,7 +12,7 @@ and you have complete freedom of choice in doing so.
 
 ## Download link
 
-[swapper-0.2.0.oxt](https://github.com/peter88213/swapper/raw/main/swapper-0.2.0.oxt)
+[swapper-1.0.0.oxt](https://github.com/peter88213/swapper/raw/main/swapper-1.0.0.oxt)
 
 
 ## Set up
